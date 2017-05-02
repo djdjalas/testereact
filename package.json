@@ -10,7 +10,7 @@
     ]
   },
   "scripts": {
-    "start": "node_modules/.bin/webpack-dev-server.cmd --content-base app"
+    "start": "node_modules/.bin/webpack-dev-server"
   },
   "author": "",
   "license": "ISC",
